@@ -1,0 +1,12 @@
+scope rules seem inconsistent
+
+for example, if you have a global variable called 'value' , and then try to assign a value to that variable in a for loop, it'll automatically
+create a local variable of the same name and use that
+
+if you try to assign a value to the global variable in a while loop, the program doesn't run because
+it says the variable name is ambiguous and doesn't know if it's a local or global variable
+
+in either case, stating 'global value' at the beginning of the loop/scope will cause both loop types to
+instead use the global variable
+
+ARRAYS STARTING AT 1

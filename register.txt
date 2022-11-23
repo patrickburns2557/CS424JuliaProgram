@@ -1,0 +1,23 @@
+A12345      Joseph P. Allen, Jr.
+A23456      Brenda Gomez
+A34567      Stephanie  
+A22152313412                               mr        test man
+@A#$    this is a     test name
+
+987     cs 424      programming languages
+123     cs 490      operating systems
+456     cs 317      algorithms
+5546123                                             CS 777     LUCKY PROGRAMMING
+1       eh 1       first 
+
+A12345      987
+A34567      123
+A23456      456
+A12345      123
+A11111111                               555
+@A#$    1
+@A#$ 219101
+A22152313412 987
+A22152313412 123
+A22152313412 456
+A22152313412 5546123
