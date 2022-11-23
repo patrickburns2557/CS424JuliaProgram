@@ -96,7 +96,7 @@ open("register.txt") do file
             println("Student with ID \"", split[1], "\" is not enrolled.")
         end
 
-        #Check if the course with hte given CRN exists or not
+        #Check if the course with the given CRN exists or not
         foundC = any(getCRN(c) == split[2] for c in courseArray)
         if !foundC
             println("Course with CRN \"", split[2], "\" does not exist.")
